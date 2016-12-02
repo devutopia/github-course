@@ -1,9 +1,8 @@
-#Curso de git
+#Curso de git e github
 
 Este é um repositorio de teste para aprender Git
 
-Mais informações no link [williamjusten.com.br](http://willianjusten.com.br)
+Mais informações no link [help.github.com/categories/github-pages-basics/](https://help.github.com/categories/github-pages-basics)
 
-Gostou das dicas, ajude a melhorar mais ajude fazendo doações
+Gostou das dicas? Acompanhe mais
 
-[![pagseguro](https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/164x37-doar-assina.gif)](https://pagseguro.uol.com.br/checkout/v2/donation.html?currency=BRL&receiverEmail=instituto1@sequencialctp.com.br)
